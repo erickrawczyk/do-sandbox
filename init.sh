@@ -1,1 +1,3 @@
-echo 'it worked!' > ~/testing.txt
+#!/bin/bash
+pwd
+echo 'it worked!' > $HOME/testing.txt
