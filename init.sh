@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 'it worked!' > $HOME/testing.txt
+touch $HOME/testing.txt
+
+touch /test.txt
